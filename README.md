@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./assets/banner.png)
+![Header](./banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Helianthusay7;Game+Dev+%7C+AI+Agent+%7C+Backend+%7C+Fullstack;Always+learning%2C+always+building.)](https://github.com/Helianthusay7)
 
