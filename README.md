@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](./banner.png)
+![Header](./assets/banner.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Helianthusay7;Game+Dev+%7C+AI+Agent+%7C+Backend+%7C+Fullstack;Always+learning%2C+always+building.)](https://github.com/Helianthusay7)
 
@@ -27,7 +27,7 @@ I'm a developer focused on **Game Development**, **AI Agent**, **Backend**, and 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Helianthusay7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Stats](https://stats.justsong.cn/api/github?username=Helianthusay7)
 
 </div>
 
