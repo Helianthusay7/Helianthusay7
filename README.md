@@ -2,51 +2,64 @@
 
 ![Header](./banner.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Helianthusay7;Game+Dev+%7C+AI+Agent+%7C+Backend+%7C+Fullstack;Always+learning%2C+always+building.)](https://github.com/Helianthusay7)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Hello,+World!+I'm+Helianthusay7;Game+Developer+%7C+AI+Agent+Builder;Backend+%26+Fullstack+Engineer;Always+learning,+always+building.)](https://github.com/Helianthusay7)
 
 </div>
 
-## 👋 About Me
+---
 
-I'm a developer focused on **Game Development**, **AI Agent**, **Backend**, and **Fullstack**. I love building things that sit at the intersection of games, intelligence, and solid engineering.
+### 👋 About Me
 
-## 🛠️ Tech Stack
+```
+const me = {
+  focus: ["Game Dev", "AI Agent", "Backend", "Fullstack"],
+  learning: ["Cocos2d-x", "Python", "Java", "OS", "AI Apps"],
+  currently: "Building games & agents",
+  askMeAbout: ["game dev", "ai agents", "system design"],
+  funFact: "I break things to understand how they work",
+};
+```
 
-![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Cocos2d-x](https://img.shields.io/badge/Cocos2d--x-222222?logo=cocos&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+### 🛠️ Tech Stack
 
-## 📊 GitHub Stats
+```
+┌─ Languages ──────────────────────────────────────────┐
+│  C   C++   Python   Java   JavaScript   TypeScript  │
+├─ Game & Graphics ────────────────────────────────────┤
+│  Cocos2d-x   OpenGL                                  │
+├─ Backend & Infra ────────────────────────────────────┤
+│  Node.js   Spring   MySQL   Redis   Docker   Linux  │
+├─ Frontend ───────────────────────────────────────────┤
+│  React   Vue   HTML5   CSS3                          │
+└───────────────────────────────────────────────────────┘
+```
+
+### 🌱 Currently Learning
+
+| Area | What |
+|------|------|
+| 🎮 Game Engine | **Cocos2d-x** — cross-platform game development |
+| 🤖 AI | **AI Agent** design & LLM-powered applications |
+| ⚙️ Systems | **Computer fundamentals** — architecture & OS internals |
+| ☕ Languages | **Python** (AI/scripting) · **Java** (backend) |
+
+### 📫 Get in Touch
 
 <div align="center">
 
-![Stats](https://stats.justsong.cn/api/github?username=Helianthusay7)
+[![Email](https://img.shields.io/badge/Gmail-lchi46124%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lchi46124@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Helianthusay7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Helianthusay7)
 
 </div>
-
-## 🌱 Currently Learning
-
-- 🎮 **Cocos2d-x** — cross-platform game engine
-- 🐍 **Python** — AI & scripting
-- ☕ **Java** — backend & Spring ecosystem
-- 🔬 **Computer fundamentals** — architecture & OS
-- 🤖 **AI Agent development** — LLM-powered agents
-
-## 📫 Contact
-
-[![Email](https://img.shields.io/badge/Email-lchi46124%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lchi46124@gmail.com)
 
 ---
 
 <div align="center">
 
-*Still learning, keep shipping.* 🚀
+```diff
++ "Still learning, still shipping."
+```
+
+🚀 Helianthusay7 · 2026
 
 </div>
